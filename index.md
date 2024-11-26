@@ -12,6 +12,6 @@ I am a computer science major at CSUF and I plan on graduating in 2028
 
     This is my second favorite lab because this part of the lab helped me understand what a command line is and how it can be used in programming. I like how when we are first introduced to command lines, we are given a simple task that was not too difficult/vague to figure out the code or purpose. The purpose of this lab is to guide students to programming code where command lines and user input is involved in a particular way, such as storing different arguments into different variables.
 
-* Lab Lab 9, part-2
+* Lab 9, part-2
 
     This was my third favorite lab because I learned a lot about input/output files and what ofstream does. I was very confused and knew nothing about these topics and I did not know what it would be used for, but after using it in this lab and figuring things out I now see how I/O files can be used in different types of programs. I also liked how this lab showed me how everything we learned from previous labs is also used in this lab, such as the command lines and if statements. The purpose of this program was to get students to get familiar with using multiple files in their programs.
